@@ -131,8 +131,8 @@ Example output:
 
 ## Author
 
-**[Muhammed Abdulrasheed]** – Aspiring Data Scientist  
-If you enjoyed this project, check out my other work: [Ramadan Length Prediction (1940–2024)]([add-link-here](https://github.com/themrandroid/ramadan-length-prediction.git))
+**Muhammed Abdulrasheed** – Aspiring Data Scientist  
+If you enjoyed this project, check out my other work: [Ramadan Length Prediction (1940–2024)](https://github.com/themrandroid/ramadan-length-prediction.git)
 
 ---
 
