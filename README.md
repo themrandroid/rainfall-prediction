@@ -9,20 +9,6 @@ This machine learning project develops predictive models to forecast rainfall fo
 
 By combining historical weather data spanning a decade with advanced machine learning techniques, this project demonstrates a practical and scalable approach to local weather forecasting with real-world validation.
 
-## Table of Contents
-
-- [Motivation](#motivation)
-- [Project Structure](#project-structure)
-- [Data](#data)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ## Motivation
 
